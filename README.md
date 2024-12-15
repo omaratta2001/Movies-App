@@ -28,7 +28,7 @@ The **Movies App** is a Flutter-based mobile application designed for movie enth
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/movies-app.git
+   git clone https://github.com/omaratta2001/movies-app.git
    cd movies-app
 2. Install dependencies::
    ```bash
